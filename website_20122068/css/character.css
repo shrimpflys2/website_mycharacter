@@ -1,0 +1,25 @@
+h2{
+    text-align: center;
+}
+div.parent_box {
+    width: 650px;
+    display: flex;
+}
+table {
+    border-collapse: collapse;
+}
+table p {
+    text-align: left;
+}
+tr td{
+    padding: 0px 15px;
+}
+.character{
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+.character p{
+    display: inline-block;
+    text-align: left;
+}
